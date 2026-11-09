@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "glimpze": {
+      "url": "https://api.glimpze.io/functions/v1/mcp"
+    }
+  }
+}

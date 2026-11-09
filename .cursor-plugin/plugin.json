@@ -1,0 +1,21 @@
+{
+  "name": "glimpze",
+  "displayName": "Glimpze",
+  "version": "1.0.0",
+  "description": "Review Glimpze website chats and live video-call history, find customer questions, and manage authorized support workflows.",
+  "author": {
+    "name": "Glimpze",
+    "email": "support@glimpze.io"
+  },
+  "homepage": "https://www.glimpze.io/docs/mcp",
+  "license": "MIT",
+  "keywords": [
+    "glimpze",
+    "customer-support",
+    "live-chat",
+    "video-calls",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
